@@ -1,0 +1,11 @@
+{
+  "name": "pinky-and-the-brain-fs",
+  "version": "1.0.0",
+  "description": "I found these examples from this URL:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
